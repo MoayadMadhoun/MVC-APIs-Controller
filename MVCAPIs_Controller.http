@@ -1,0 +1,6 @@
+@MVCAPIs_Controller_HostAddress = http://localhost:5150
+
+GET {{MVCAPIs_Controller_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
